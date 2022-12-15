@@ -1,0 +1,8 @@
+- npm init - (crea el package.json)
+- npm i --save-dev jest (package-lock + node_modules)
+- npm run test / or npm t
+- crear carpeta __test__
+- se puede usar test o it
+- npm t -- -u
+- crear .babelrc
+- npm i --save-dev @babel/preset-env
